@@ -1,0 +1,4 @@
+torch==2.0.0
+transformers==4.30.0
+numpy==1.23.5
+re==2.2.1  # This is built-in, so it may not need installation
