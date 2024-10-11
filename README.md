@@ -40,12 +40,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgements
 - [Hugging Face](https://huggingface.co) for providing the Transformers library and pre-trained models.
 - [PyTorch](https://pytorch.org) for the deep learning framework.
-
-## Contact
-For any questions or feedback, feel free to reach out to me at [your-email@example.com].
-```
-
-### Notes:
-- Update the **Contact** section with your actual email or any other preferred method of communication.
-- If you have a license file, ensure the `LICENSE` link points to the correct file in your project.
-- Feel free to modify any sections to better fit your project's needs or your personal style!
