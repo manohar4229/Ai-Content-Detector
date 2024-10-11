@@ -1,6 +1,5 @@
 Here’s a sample `README.md` file for your AI Content Detector project:
 
-```markdown
 # AI Content Detector
 
 ## Description
